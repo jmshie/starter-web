@@ -4,7 +4,7 @@
 # TEAM
 
    Jeremy Shields my@email.edu 
-
+  Joe Blow
 # THANKS
 
     all the students
