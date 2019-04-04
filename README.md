@@ -2,6 +2,8 @@
 
 More changes
 
+Yet more changes.
+
 This repository is for showing how Git and GitHub work
  More changes
 Adding line for rebasing.
